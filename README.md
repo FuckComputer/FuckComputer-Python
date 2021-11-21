@@ -26,7 +26,7 @@ And it will work!
 ### Windows
 Not supported for Windows yet.
 
-> *Windows is a piece of SHIT!*
+> *Windows is a piece of SHIT!*  
 > -- Chi\_Tang
 ## Usage
 WIP
