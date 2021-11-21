@@ -7,7 +7,7 @@
 # FuckComputer-Python
 This is a **GREAT** program to fuck your computer!    
 It mixed other **GREAT** programs by FuckComputer together.
-For more information, see [FuckComputer]('https://github.com/FuckComputer').
+For more information, see [FuckComputer](https://github.com/FuckComputer).
 
 ## Run
 ### Dependencies
