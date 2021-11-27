@@ -11,7 +11,7 @@ This is a **GREAT** program to fuck your computer!
 It mixed other **GREAT** programs by FuckComputer together.
 For more information, see [FuckComputer](https://github.com/FuckComputer).
 
-## Run
+## Run directly
 ### Dependencies
 - Python 3
 - Dependencies of other programs by FuckComputer
