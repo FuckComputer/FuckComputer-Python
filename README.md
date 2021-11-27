@@ -16,7 +16,7 @@ For more information, see [FuckComputer](https://github.com/FuckComputer).
 - Python 3
 - Dependencies of other programs by FuckComputer
 
-### Linux & macOS & Android Termux
+### Most platforms
 Just run
 
 ```shell
@@ -25,13 +25,17 @@ python src/main.py
 
 And it will work!
 
-### Windows
+#### Windows
 Incomplete support support for Windows.
 
 Python scripts are for any platforms, but `fuckcomputer` on Windows is not tested.
 
 > *Windows is a piece of SHIT!*  
 > -- Chi\_Tang
+
+## Install by AUR
+Check the package `fuckcomputer-utils-py` on AUR and install it.
+
 ## Usage
 Follow the instructions in the script.
 
