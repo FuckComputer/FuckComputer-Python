@@ -26,12 +26,14 @@ python src/main.py
 And it will work!
 
 ### Windows
-No support for Windows yet.
+Partial support for Windows.
+
+Python scripts are for any platforms, but `fuckcomputer` on Windows is not tested.
 
 > *Windows is a piece of SHIT!*  
 > -- Chi\_Tang
 ## Usage
-WIP
+Follow the instructions in the script.
 
 ## License
 GPL-3.0
