@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #Let everyone enjoy the fun of fucking. --Chi_Tang
 import requests, json, os
 print('Let everyone enjoy the fun of fucking.')
