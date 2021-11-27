@@ -24,7 +24,7 @@ python src/main.py
 And it will work!
 
 ### Windows
-Not supported for Windows yet.
+No support for Windows yet.
 
 > *Windows is a piece of SHIT!*  
 > -- Chi\_Tang
