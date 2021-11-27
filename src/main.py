@@ -12,8 +12,8 @@ except requests.exceptions.ConnectionError:
     print('Great connection!')
     sys.exit(255)
 
-print('Welcome to FuckComputer n in 1 (Python ver)!')
 ls=json.loads(js.text)
+print('Welcome to FuckComputer {} in 1 (Python ver)!'.format(len(ls.keys())))
 for x in range(len(ls.keys())):
     print('    ({}){}'.format(x+1,list(ls.keys())[x]))
 ch=int(input('Please choose a mode: '))
