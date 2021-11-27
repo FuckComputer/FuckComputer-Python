@@ -3,6 +3,7 @@
 > -- Chi\_Tang
 
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+
 [![AUR version](https://img.shields.io/aur/version/fuckcomputer-utils-py?style=flat-square)](https://aur.archlinux.org/packages/fuckcomputer-utils-py/) ![AUR votes](https://img.shields.io/aur/votes/fuckcomputer-utils-py?label=fuckcomputer-utils-py%20vote&style=flat-square)
 
 # FuckComputer-Python
