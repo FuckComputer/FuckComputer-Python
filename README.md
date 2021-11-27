@@ -26,7 +26,7 @@ python src/main.py
 And it will work!
 
 ### Windows
-Partial support for Windows.
+Incomplete support support for Windows.
 
 Python scripts are for any platforms, but `fuckcomputer` on Windows is not tested.
 
