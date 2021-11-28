@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #Let everyone enjoy the fun of fucking. --Chi_Tang
-import requests, json, os
+import requests, json, os, sys
 print('Let everyone enjoy the fun of fucking.')
 try:
     print('Checking Internet...')
